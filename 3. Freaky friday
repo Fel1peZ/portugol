@@ -1,0 +1,17 @@
+programa
+{
+	
+	funcao inicio()
+	{
+cadeia mae = "Tess"
+cadeia filha = "Anna"
+cadeia troca
+escreva( mae," e ", filha , "\n") 
+
+troca = mae
+mae = filha
+filha = troca
+escreva( mae," e ", filha)
+
+	}
+}
