@@ -1,0 +1,27 @@
+programa
+{
+	
+	funcao inicio()
+	{
+  inteiro n1
+	inteiro n2
+	inteiro n3
+	inteiro n4
+
+escreva( "Digite sua nota do primeiro bimestre", "\n")
+leia(n1)
+escreva( "Digite sua nota do segundo bimestre", "\n")
+leia(n2)
+escreva( "Digite sua nota do terceiro bimestre", "\n")
+leia(n3)
+escreva( "Digite sua nota do quarto bimestre", "\n")
+leia(n4)
+
+escreva("Média é ", (n1 + n2 + n3 + n4) / 4)
+
+
+
+	
+		
+	}
+}
