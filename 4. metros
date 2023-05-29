@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+	{
+ real metros 
+	escreva("Converta metros para cm","\n")
+	leia(metros)
+	escreva( metros * 100, "cm") 
+	
+		
+	}
+}
