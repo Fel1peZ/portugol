@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+inteiro largura
+inteiro comprimento 
+escreva("Qual a largura?", "\n")
+leia(largura)
+escreva("Qual o comprimento?", "\n")
+leia(comprimento)
+escreva( "área =", largura * comprimento ,"m", "\n")
+escreva( "O dobro da área =", (largura * comprimento)*2 ,"m", "\n")	
+escreva( "O dobro da área em cm=", ((largura * comprimento)*2)*100,"cm" )		
+	}
+}
