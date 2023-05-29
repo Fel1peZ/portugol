@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+escreva("Harry Potter a Pedra Filosofal: R$ 26,90","\n","Harry Potter a Câmara dos Segredos: R$ 34,10","\n", "Harry Potter o Prisioneiro de Azkaban: R$ 29,90","\n","Harry Potter o Cálice de Fogo: R$ 26,90","\n","Harry Potter a Ordem da Fênix: R$ 50,00","\n","Harry Potter o Príncipe misterioso: R$ 26,90")
+escreva("\n" ,"juntos valem :", 26.90 + 34.10 + 29.90 + 26.90 + 50.00 + 26.90 )
+
+
+
+
+
+		
+	}
+}
