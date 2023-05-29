@@ -1,0 +1,18 @@
+programa
+{
+	inclua biblioteca Matematica
+ --> m
+	
+	funcao inicio()
+	{real 
+dolar = 5.01
+	real reais 
+	escreva("Quanto dinheiro voce tem em reais?", "\n" ,"obs:escreva com os numeros decimais inclusos","\n")
+leia(reais)
+escreva("Voce tem " ,reais = reais / dolar, " dolares","\n")
+escreva("Faltam " , 1300 - reais , " para comprar um Ps5", "\n")
+escreva("Com seu dinheiro é possivel comprar ",  reais / 50 , ", livros do Harry Potter e a ordem da Phoenix")
+
+	
+	}
+}
