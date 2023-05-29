@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+inteiro raio
+
+escreva(" digite o raio", "\n")
+leia( raio)
+
+escreva("Área = ", 3,14* ( raio * raio))
+
+
+		
+	}
+}
