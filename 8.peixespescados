@@ -1,0 +1,35 @@
+programa
+{
+
+real peso_de_peixes
+real excesso
+real multa
+inteiro peixes_pescados
+	
+	funcao inicio()
+	{
+	escreva("Quantos peixes voce pescou? \n")
+     leia(peixes_pescados)
+     escreva("Quanto pesam seus peixe? \n")
+     leia(peso_de_peixes)
+ 
+
+     se(peso_de_peixes>50){
+     excesso = peso_de_peixes - 50
+     multa = (peso_de_peixes - 50) * 4.5
+     escreva(" Você pescou " , peixes_pescados ,"\n eles pesam ", peso_de_peixes, "\n voce tem um excesso de ", excesso ,"\n e isso equivale a ", multa ," reais de multa")
+    
+
+
+     }
+	senao
+	escreva(" Você pescou " , peixes_pescados ,"\n eles pesam ", peso_de_peixes, "\n voce nao tem excesso, entao pode ir em paz  ")
+   
+
+
+
+
+
+		
+	}
+}
